@@ -10,7 +10,7 @@
     <title>Two Stewards</title>
     <link>https://twostewards.com/</link>
     <description>Workshop pages import</description>
-    <pubDate>Sat, 09 Aug 2025 01:33:25 +0000</pubDate>
+    <pubDate>Sat, 09 Aug 2025 02:17:01 +0000</pubDate>
     <language>en-US</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://twostewards.com/</wp:base_site_url>
@@ -25,11 +25,10 @@
       <wp:author_last_name><![CDATA[]]></wp:author_last_name>
     </wp:author>
 
-    <!-- Page 1: Main Prospectus Core (Draft) -->
     <item>
       <title>The Biology of Wealth Transition</title>
       <link>https://twostewards.com/the-biology-of-wealth-transition/</link>
-      <pubDate>Sat, 09 Aug 2025 01:33:25 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 02:17:01 +0000</pubDate>
       <dc:creator><![CDATA[admin]]></dc:creator>
       <guid isPermaLink="false">https://twostewards.com/?page_id=100001</guid>
       <description></description>
@@ -37,18 +36,18 @@
 <h1>The Biology of Wealth Transition</h1>
 <p><em>Empowering professionals to support families in the most delicate, unrehearsable passage of their lives.</em></p>
 
-<h2>1. Executive Summary</h2>
+<h2>Executive Summary</h2>
 <p>Wealth transition is never just about money — it’s about identity, relationships, and legacy. <em>The Biology of Wealth Transition</em> is a workshop for professionals who guide families through this intricate process. Together, we will explore the unseen forces shaping these transitions, learn to coordinate across disciplines, and build the capacity to help families succeed in what is often considered an impossible task.</p>
 
-<h2>2. Challenges in Wealth Transition – Summary</h2>
+<h2>Challenges in Wealth Transition – Summary</h2>
 <p>Families transferring wealth face intertwined legal, financial, relational, and emotional pressures. Common pitfalls include fragmented professional support, hidden family dynamics, identity upheaval, stress overload, compounding crises, and generational misalignment. These forces rarely exist in isolation, making successful transition a truly interdisciplinary challenge.</p>
 <p><strong>In-depth article:</strong> <a href="https://twostewards.com/challenges-in-wealth-transition/">Challenges in Wealth Transition</a> (full exploration with examples and strategies).</p>
 
-<h2>3. Origins / Whence – Summary</h2>
+<h2>Origins / Whence – Summary</h2>
 <p>This workshop grew out of years of working closely with families during their most pivotal transitions, and witnessing how even the best-prepared plans could unravel under hidden systemic pressures. Over time, it became clear that success requires seeing the family as a living system — one that demands coordinated insight from every professional involved.</p>
 <p><strong>In-depth article:</strong> <a href="https://twostewards.com/origins-of-the-biology-of-wealth-transition/">Origins of The Biology of Wealth Transition</a> (full backstory, key insights, and formative cases).</p>
 
-<h2>4. Audience</h2>
+<h2>Audience</h2>
 <ul>
   <li>Estate Planning Attorneys</li>
   <li>Accountants and Tax Advisors</li>
@@ -63,10 +62,10 @@
   <li>Insurance Professionals</li>
 </ul>
 
-<h2>5. Purpose</h2>
+<h2>Purpose</h2>
 <p>To empower professionals — individually and cooperatively — to support families in navigating the nearly impossible task of transferring wealth across generations. This means moving beyond technical expertise to cultivate cross-disciplinary understanding, trust, and cooperation.</p>
 
-<h2>6. Core Topics / Learning Modules</h2>
+<h2>Core Topics / Learning Modules</h2>
 <ol>
   <li><strong>The Living System of the Family</strong> – Families as organisms, not machines. Mapping influence, identity, and unspoken rules.</li>
   <li><strong>The Biology of Change</strong> – How families adapt or resist during transitions. Stress, uncertainty, and resilience in wealth transfer.</li>
@@ -76,7 +75,7 @@
   <li><strong>From Impossible to Achievable</strong> – Building cooperative frameworks that last.</li>
 </ol>
 
-<h2>7. Format &amp; Flow</h2>
+<h2>Format &amp; Flow</h2>
 <ul>
   <li><strong>Highly Interactive:</strong> Minimal lecture, maximum engagement with real cases.</li>
   <li><strong>Fluid Structure:</strong> Sessions adapt to issues participants face in their own work.</li>
@@ -84,27 +83,27 @@
   <li><strong>Reflection Sessions:</strong> Time for quiet processing and personal application.</li>
 </ul>
 
-<h2>8. Expected Outcomes</h2>
+<h2>Expected Outcomes</h2>
 <ul>
   <li><strong>Enabled</strong> with deeper understanding of the family-as-system approach.</li>
   <li><strong>Empowered</strong> to address root challenges in wealth transitions.</li>
   <li><strong>Engaged</strong> with a network of cross-disciplinary peers for ongoing collaboration.</li>
 </ul>
 
-<h2>9. Investment &amp; Incentives</h2>
+<h2>Investment &amp; Incentives</h2>
 <ul>
   <li>Standard registration rate: TBD.</li>
   <li>Reduced rate for repeat participants.</li>
   <li>Additional discount for bringing a colleague from another discipline.</li>
 </ul>
 
-<h2>10. Closing Invitation</h2>
+<h2>Closing Invitation</h2>
 <p>Wealth transition is not a solo act — it is a symphony. Join us to learn how to conduct your part in harmony with others, for the sake of the families you serve.</p>
-      ]]></content:encoded>
+]]></content:encoded>
       <excerpt:encoded><![CDATA[]]></excerpt:encoded>
       <wp:post_id>100001</wp:post_id>
-      <wp:post_date>2025-08-09 01:33:25</wp:post_date>
-      <wp:post_date_gmt>2025-08-09 01:33:25</wp:post_date_gmt>
+      <wp:post_date>2025-08-09 02:17:01</wp:post_date>
+      <wp:post_date_gmt>2025-08-09 02:17:01</wp:post_date_gmt>
       <wp:comment_status>closed</wp:comment_status>
       <wp:ping_status>closed</wp:ping_status>
       <wp:post_name>the-biology-of-wealth-transition</wp:post_name>
@@ -112,15 +111,12 @@
       <wp:post_parent>0</wp:post_parent>
       <wp:menu_order>0</wp:menu_order>
       <wp:post_type>page</wp:post_type>
-      <wp:post_password></wp:post_password>
-      <wp:is_sticky>0</wp:is_sticky>
     </item>
 
-    <!-- Page 2: Challenges Satellite (Draft) -->
     <item>
       <title>Challenges in Wealth Transition</title>
       <link>https://twostewards.com/challenges-in-wealth-transition/</link>
-      <pubDate>Sat, 09 Aug 2025 01:33:25 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 02:17:01 +0000</pubDate>
       <dc:creator><![CDATA[admin]]></dc:creator>
       <guid isPermaLink="false">https://twostewards.com/?page_id=100002</guid>
       <description></description>
@@ -129,27 +125,27 @@
 <p>Families navigating the transfer of wealth face challenges that go far beyond legal documents and financial plans. These challenges are systemic, emotional, and often invisible until they derail the process. Understanding them in detail is critical to supporting successful transitions.</p>
 <hr />
 
-<h2>1. Fragmented Professional Support</h2>
+<h2>Fragmented Professional Support</h2>
 <p>When each advisor works in isolation — estate planner, accountant, therapist, trustee — strategies can conflict, or crucial issues can be overlooked. Without coordination, professionals may unintentionally undermine each other’s work.</p>
 <p><em>Example:</em> An attorney finalizes a trust distribution plan without awareness of a beneficiary’s addiction recovery process, triggering unintended harm.</p>
 
-<h2>2. Hidden Family Dynamics</h2>
+<h2>Hidden Family Dynamics</h2>
 <p>Longstanding rivalries, shifting alliances, and unspoken expectations often exert more influence than the legal or financial frameworks. These dynamics are rarely visible to all parties and can surface at pivotal moments.</p>
 <p><em>Example:</em> Sibling tensions remain dormant until an inheritance triggers competition for parental approval.</p>
 
-<h2>3. Role Confusion and Identity Shifts</h2>
+<h2>Role Confusion and Identity Shifts</h2>
 <p>Inheritors and senior members alike may struggle to redefine themselves in a new financial reality. Loss of role, purpose, or authority can create resistance, disengagement, or conflict.</p>
 <p><em>Example:</em> A patriarch steps down from active business leadership but resists sharing decision-making with the next generation.</p>
 
-<h2>4. Stress and Emotional Overload</h2>
+<h2>Stress and Emotional Overload</h2>
 <p>The weight of responsibility, fear of change, and grief over endings can stall decision-making or lead to reactive choices.</p>
 <p><em>Example:</em> A widow postpones critical asset transfers for years due to unresolved grief, risking tax penalties and family disputes.</p>
 
-<h2>5. Compounded Life Events</h2>
+<h2>Compounded Life Events</h2>
 <p>Health crises, addictions, marital breakdowns, or spiritual crises often coincide with transition periods, amplifying complexity.</p>
 <p><em>Example:</em> A major business sale aligns with a family member’s medical emergency, stretching attention and resources thin.</p>
 
-<h2>6. Generational Misalignment</h2>
+<h2>Generational Misalignment</h2>
 <p>Differing values, communication styles, and goals between generations can breed mistrust, even when the family’s stated intentions are aligned.</p>
 <p><em>Example:</em> The next generation prioritizes philanthropic impact, while the senior generation focuses on capital preservation.</p>
 
@@ -164,11 +160,11 @@
 
 <hr />
 <p><strong>Return to the Main Prospectus:</strong> <a href="https://twostewards.com/the-biology-of-wealth-transition/">The Biology of Wealth Transition</a></p>
-      ]]></content:encoded>
+]]></content:encoded>
       <excerpt:encoded><![CDATA[]]></excerpt:encoded>
       <wp:post_id>100002</wp:post_id>
-      <wp:post_date>2025-08-09 01:33:25</wp:post_date>
-      <wp:post_date_gmt>2025-08-09 01:33:25</wp:post_date_gmt>
+      <wp:post_date>2025-08-09 02:17:01</wp:post_date>
+      <wp:post_date_gmt>2025-08-09 02:17:01</wp:post_date_gmt>
       <wp:comment_status>closed</wp:comment_status>
       <wp:ping_status>closed</wp:ping_status>
       <wp:post_name>challenges-in-wealth-transition</wp:post_name>
@@ -176,15 +172,12 @@
       <wp:post_parent>0</wp:post_parent>
       <wp:menu_order>0</wp:menu_order>
       <wp:post_type>page</wp:post_type>
-      <wp:post_password></wp:post_password>
-      <wp:is_sticky>0</wp:is_sticky>
     </item>
 
-    <!-- Page 3: Origins Satellite (Draft) -->
     <item>
       <title>Origins of The Biology of Wealth Transition</title>
       <link>https://twostewards.com/origins-of-the-biology-of-wealth-transition/</link>
-      <pubDate>Sat, 09 Aug 2025 01:33:25 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 02:17:01 +0000</pubDate>
       <dc:creator><![CDATA[admin]]></dc:creator>
       <guid isPermaLink="false">https://twostewards.com/?page_id=100003</guid>
       <description></description>
@@ -224,11 +217,11 @@
 
 <hr />
 <p><strong>Return to the Main Prospectus:</strong> <a href="https://twostewards.com/the-biology-of-wealth-transition/">The Biology of Wealth Transition</a></p>
-      ]]></content:encoded>
+]]></content:encoded>
       <excerpt:encoded><![CDATA[]]></excerpt:encoded>
       <wp:post_id>100003</wp:post_id>
-      <wp:post_date>2025-08-09 01:33:25</wp:post_date>
-      <wp:post_date_gmt>2025-08-09 01:33:25</wp:post_date_gmt>
+      <wp:post_date>2025-08-09 02:17:01</wp:post_date>
+      <wp:post_date_gmt>2025-08-09 02:17:01</wp:post_date_gmt>
       <wp:comment_status>closed</wp:comment_status>
       <wp:ping_status>closed</wp:ping_status>
       <wp:post_name>origins-of-the-biology-of-wealth-transition</wp:post_name>
@@ -236,8 +229,6 @@
       <wp:post_parent>0</wp:post_parent>
       <wp:menu_order>0</wp:menu_order>
       <wp:post_type>page</wp:post_type>
-      <wp:post_password></wp:post_password>
-      <wp:is_sticky>0</wp:is_sticky>
     </item>
 
   </channel>
