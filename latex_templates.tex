@@ -1,0 +1,70 @@
+
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{glossaries}
+
+% Create glossary
+\makeglossaries
+
+% Example Glossary Entries
+\newglossaryentry{cadre}{
+    name={Cadre},
+    description={A small group of people specially trained for a particular purpose or profession. Used here to mean the founding group of professionals stewarding family wealth transitions.}
+}
+
+\begin{document}
+
+\section*{Templates}
+
+\subsection*{Bibliography Entry (APA Style)}
+\begin{verbatim}
+@book{chernow1998titan,
+  author    = {Chernow, Ron},
+  title     = {Titan: The Life of John D. Rockefeller, Sr.},
+  year      = {1998},
+  publisher = {Random House},
+}
+
+@article{smith2020wealth,
+  author  = {Smith, J. A. and Doe, R. B.},
+  title   = {Wealth transition strategies in family businesses},
+  journal = {Journal of Family Enterprise},
+  volume  = {45},
+  number  = {3},
+  pages   = {201--218},
+  year    = {2020},
+  doi     = {10.xxxx/xxxxx}
+}
+\end{verbatim}
+
+\subsection*{Figure Entry Template}
+\begin{verbatim}
+% In the main document where the figure appears:
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figure-file.png}
+    \caption[Short Caption for List of Figures]{Title – Detailed description explaining the figure’s content, context, and relevance.}
+    \label{fig:ecosystem-model}
+\end{figure}
+\end{verbatim}
+
+\subsection*{Glossary Entry Template}
+\begin{verbatim}
+% Preamble:
+\usepackage{glossaries}
+\makeglossaries
+
+% Entry:
+\newglossaryentry{term}{
+    name={Term},
+    description={Concise, clear explanation with optional context or notes.}
+}
+
+% Use in text:
+\gls{term}
+\end{verbatim}
+
+\printglossaries
+
+\end{document}
