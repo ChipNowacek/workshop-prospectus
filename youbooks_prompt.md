@@ -103,8 +103,11 @@ The book must include:
    - Positioning families and professionals for resilience and growth  
 
 ### Appendices
-- **Glossary**  
-- **Bibliography**  
+- **Glossary**
+- **Bibliography**
+- **List of Figures**
+- **Index**
+
 
 ## Tone and Style
 - Professional yet accessible for a cross-disciplinary audience.  
